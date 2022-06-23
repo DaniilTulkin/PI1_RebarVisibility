@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>PI1_RebarVisibility</Name>
+		<Assembly>PI1_RebarVisibility.dll</Assembly>
+		<AddInId>C33E9AED-0B20-4745-B38F-78280DD53448</AddInId>
+		<FullClassName>PI1_RebarVisibility.Main</FullClassName>
+		<VendorId>Daniil Tulkin</VendorId>
+		<VendorDescription>Daniil Tulkin</VendorDescription>
+	</AddIn>
+</RevitAddIns>
